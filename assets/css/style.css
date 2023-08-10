@@ -4,6 +4,8 @@
     font-family: Century Gothic;
 }
 
-header{
-    background-image: url();
+#perfeito{
+    background-image: url(../css/images/perfeito.jpg);
+    height: 100vh;
+    background-size: cover;
 }
