@@ -21,6 +21,7 @@
 ul{
     float: right;
     list-style-type: none;
+    
 }
 
 ul li {
@@ -32,4 +33,21 @@ ul li a{
    color:black;
    padding: 5px 20px;
    border: 1px solid black;
+   transition: 0.6s ease;
+   
+}
+
+ul li a:hover{
+    background-color: green;
+    color:000;
+}
+
+ul li.active {
+    background-color: green;
+    color:000;
+}
+
+.expert{
+    max-width: 1200px;
+    margin: auto;
 }
