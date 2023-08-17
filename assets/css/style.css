@@ -42,12 +42,16 @@ ul li a:hover{
     color:000;
 }
 
-ul li.active {
-    background-color: green;
-    color:000;
-}
-
 .expert{
     max-width: 1200px;
     margin: auto;
+}
+
+#logo {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform:translate(-25%,-50%);
+    color: #b80b0b;
+    font-size: 70px;
 }
