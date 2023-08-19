@@ -52,20 +52,3 @@ ul li a:hover{
     margin: auto;
 }
 
-#logo {
-    position: absolute;
-    top: 50%;
-    left: 40%;
-    transform:translate(-30%,-50%);
-    color: #b80b0b;
-    font-size: 90px;
-}
-
-#segundo{
-    position: absolute;
-    top: 50%;
-    left: 40%;
-    transform:translate(-30%,-50%);
-    color: #1528d1;
-    font-size: 70px;
-}
