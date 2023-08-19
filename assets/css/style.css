@@ -19,6 +19,7 @@
 } 
 
 ul{
+
     float: right;
     list-style-type: none;
     
@@ -32,14 +33,18 @@ ul li a{
    text-decoration:none;
    color:black;
    padding: 5px 20px;
-   border: 1px solid black;
+   border: 1px solid transparent;
    transition: 0.6s ease;
    
 }
 
 ul li a:hover{
     background-color: green;
-    color:000;
+    color:#000;
+}
+#nenu.active a{
+    background-color: green;
+    color:#000;
 }
 
 .expert{
@@ -51,7 +56,16 @@ ul li a:hover{
     position: absolute;
     top: 50%;
     left: 40%;
-    transform:translate(-25%,-50%);
+    transform:translate(-30%,-50%);
     color: #b80b0b;
+    font-size: 90px;
+}
+
+#segundo{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform:translate(-30%,-50%);
+    color: #1528d1;
     font-size: 70px;
 }
