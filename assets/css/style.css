@@ -12,12 +12,19 @@
 }
 
 #soldado{
-    background-image: url(../css/images/soldado.jpg);
-    height: 100vh;
-    background-size: cover;
-    background-position: center; 
+   background-image: url(../css/images/soldado.jpg);
+   height: 100vh;
+   background-size: cover;
+   background-position: center;
 } 
 
+#galeria{
+    background-image: url(../css/images/galeria.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+ } 
+ 
 ul{
 
     float: right;
