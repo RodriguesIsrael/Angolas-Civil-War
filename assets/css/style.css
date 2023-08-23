@@ -24,6 +24,20 @@
     background-size: cover;
     background-position: center;
  } 
+
+ #aboutus1{
+    background-image: url(../css/images/aboutus1.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+ }
+
+ #contactUs{
+    background-image: url(../css/images/contact.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+ }
  
 ul{
 
