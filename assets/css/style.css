@@ -68,16 +68,16 @@
  #menu a {
    text-decoration: none;
    transition: 0.6s ease;
-   color: #d40909;
+   color: #fa0404;
  }
  
  #menu a:hover {
-   background-color: green;
-   color:#f5aa0a;
+   background-color: rgb(3, 3, 3);
+   color:#c00ad8;
  }
 
  .active{
-   background-color: green;
+   background-color: rgb(3, 3, 3);
    color:#d40909;
  }
  /*
