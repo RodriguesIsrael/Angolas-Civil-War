@@ -40,8 +40,9 @@
  }
 
  #logo{
-    float:left;
-    font-size:350%;
+   float:left;
+   font-size:350%;
+   margin-left: 30px;
  }
 
 
