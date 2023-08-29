@@ -80,6 +80,24 @@
    background-color: rgb(3, 3, 3);
    color:#d40909;
  }
+
+ .segundo{
+  float: left;
+  width: 30%;
+  height: 300px;
+  padding:20px
+ }
+ .segundo #ango {
+  list-style-type: none;
+  padding: 0;
+
+ }
+ article {
+  float: right;
+  padding: 20px;
+  width:70%;
+  height: 300px;
+ }
  /*
 ul{
 
