@@ -109,10 +109,16 @@
   height:200px;
  }
 
- #segundona ul {
-   margin-top: 25%;
-   float: left;
+ footer nav ul {
+     padding: 18%;
+     text-align: center;
+     list-style-type: none;    
+ }
 
+ footer ul {
+  display: flex;
+  list-style: none;
+  gap: 200px;
  }
  /*
 ul{
