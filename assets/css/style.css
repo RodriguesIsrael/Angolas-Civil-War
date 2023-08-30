@@ -94,28 +94,30 @@
 
  }
  article {
-  margin-top: 10%;
+  margin-top: 2%;
   float: right;
-  padding: 20;
+  padding: 30;
   width:600px;
   height:200px;
+  color: aliceblue;
  }
 
  article #primeriop{
-  margin-top:10%;
+  margin-top:2%;
   float:left;
-  padding: 20;
+  padding: 5;
   width:600px;
   height:200px;
  }
 
  footer nav ul {
-     padding: 18%;
+     padding: 20%;
      text-align: center;
      list-style-type: none;    
  }
 
  footer ul {
+  margin-top:50%;
   display: flex;
   list-style: none;
   gap: 200px;
