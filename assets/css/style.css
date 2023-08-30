@@ -108,7 +108,12 @@
   width:600px;
   height:200px;
  }
- 
+
+ #segundona ul {
+   margin-top: 25%;
+   float: left;
+
+ }
  /*
 ul{
 
