@@ -3,12 +3,17 @@
    padding: 0;
    font-family: Century Gothic;
 }
+body,html{
+  height: 100%;
+  margin: 0;
+}
 /* backgraund each page */
-#cidade{
+.cidade{
    background-image: url(../css/images/cidade.jpg);
    height: 100vh;
    background-size: cover;
    background-position: center;
+   background-repeat: no-repeat;
 }
 
 #soldado{
@@ -93,35 +98,67 @@
   padding: 0;
 
  }
- article {
-  margin-top: 2%;
+ 
+ .cidade{
+  height: 100%;
+ }
+
+  #esquerda{
+  padding-top: 40px;
+  width: 45%;
+  float: left;
+  color: rgb(253, 216, 7);
+  padding-left:40px;
+  font-size: 17px;
+}
+
+#direita{
+  padding-top: 40px;
+  width: 45%;
   float: right;
-  padding: 30;
-  width:600px;
-  height:200px;
-  color: aliceblue;
- }
+  color:  rgb(253, 216, 7);
+  padding-right:40px;
+  font-size: 17px;
+  
+}
 
- article #primeriop{
-  margin-top:2%;
-  float:left;
-  padding: 5;
-  width:600px;
-  height:200px;
- }
-
- footer nav ul {
-     padding: 20%;
-     text-align: center;
-     list-style-type: none;    
- }
-
- footer ul {
-  margin-top:50%;
+.terceiroOne {
+  width: 600px;
+  height: 80px;
+  margin: 50px;
+  outline: solid 3px white;
   display: flex;
-  list-style: none;
-  gap: 200px;
- }
+  justify-content: center;  
+  
+}
+
+#linksMeus {
+  margin-top: 20px;
+  width: 600px;
+  font-family: Century Gothic;
+}
+
+#linksMeus li {
+  display: block;
+  width: 150px;
+  float:left;
+  margin-left: 30px;
+  border: 3px solid #000;
+}
+
+#linksMeus a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  text-align: center;
+  background-color: #fff;
+  color:#009;
+}
+
+#linksMeus a:hover{
+  background-color: #009;
+  color:#fff;
+}
  /*
 ul{
 
