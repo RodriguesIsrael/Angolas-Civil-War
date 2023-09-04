@@ -27,7 +27,7 @@ body,html{
 
 .galeria{
    background-image: url(../css/images/galeria.jpg);
-   height: 240vh;
+   height: 220vh;
    background-size: cover;
    background-position: center;
  } 
@@ -173,7 +173,7 @@ body,html{
 }
 
 .galeria{
-  padding-top: 40px;
+  padding-top: 100px;
 }
 
  .container{
@@ -195,6 +195,7 @@ body,html{
   font-weight: bolder;
   padding-bottom: 10px;
   border-bottom: 3px solid white;
+  color: #fff;
 }
 
 .container .heading  h3 span {
@@ -235,6 +236,27 @@ justify-content: space-between;
   text-decoration: none;
   font-weight: bolder;
   letter-spacing: 3px;
+}
+
+@media only screen and (max-width: 769px){
+    .container .box{
+  flex-direction: column;
+  
+    }
+  .container .box .dream{
+    width:100%;
+  }
+
+}
+
+@media only screen and (max-width: 643px){
+  .container .heading{
+    width:100%;
+  }
+ .container .heading h3{
+  font-size: 1em;
+ }
+
 }
  /*
 ul{
