@@ -32,7 +32,7 @@ body,html{
    background-position: center;
  } 
 
- #aboutus1{
+ .aboutus1{
    background-image: url(../css/images/chuvalenta.jpg);
    height: 100vh;
    background-size: cover;
@@ -257,6 +257,20 @@ justify-content: space-between;
   font-size: 1em;
  }
 
+}
+
+
+#centro{
+  padding-top: 100px;
+  padding-left: 20%;
+  width: 62%;
+  float: left;
+  color:rgb(252, 251, 245); 
+  font-size: 17px;
+}
+
+#centro h1 {
+     text-align: center;
 }
  /*
 ul{
