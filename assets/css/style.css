@@ -265,12 +265,18 @@ justify-content: space-between;
   padding-left: 20%;
   width: 62%;
   float: left;
-  color:rgb(252, 251, 245); 
+  color:rgb(0, 0, 0); 
   font-size: 17px;
+  font-weight: bolder;
 }
 
 #centro h1 {
      text-align: center;
+     color: #0a0a0a;
+}
+
+#centro p{
+  padding-top: 40px;
 }
  /*
 ul{
