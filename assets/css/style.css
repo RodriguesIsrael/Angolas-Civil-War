@@ -3,17 +3,17 @@
    padding: 0;
    font-family: Century Gothic;
 }
+
 body,html{
   height: 100%;
   margin: 0;
 }
-/* backgraund each page */
+/* The backgraund of each page */
 .cidade{
    background-image: url(../css/images/cidade.jpg);
-   height: 100vh;
+   height: 180vh;
    background-size: cover;
    background-position: center;
-   background-repeat: no-repeat;
 }
 
 .soldado{
@@ -95,6 +95,7 @@ body,html{
   height: 200px;
   padding:10px
  }
+
  .segundo #ango {
   list-style-type: none;
   padding: 0;
@@ -106,23 +107,46 @@ body,html{
  }
 
   #esquerda{
-  padding-top: 40px;
-  width: 45%;
+  margin-top: 100px;  
+  padding-top: 30px;
+  width: 42%;
   float: left;
-  color:rgb(253, 216, 7); 
+  color:rgb(15, 13, 1); 
   padding-left:40px;
   font-size: 17px;
+  background-color: rgba(251, 253, 253, .5);
+  border-radius: 5px;
+  margin-left: 30px;
+  }
+
+#esquerda h1{
+   text-align:center;
+}
+
+#esquerda p{
+  margin-right: 50px;
 }
 
 #direita{
-  padding-top: 40px;
-  width: 45%;
+  margin-top: 100px;  
+  padding-top: 30px;
+  width: 42%;
   float: right;
-  color:  rgb(253, 216, 7);
+  color:rgb(15, 13, 1); 
   padding-right:40px;
   font-size: 17px;
-  
-  
+  background-color: rgba(251, 253, 253, .5);
+  border-radius: 5px;
+  margin-right: 30px;
+
+}
+
+#direita h1 {
+  text-align: center;
+}
+
+#direita p {
+  margin-left: 50px;
 }
 
 .terceiroOne {
@@ -135,7 +159,7 @@ body,html{
 }
 
 #linksMeus {
-  margin-top: 20px;
+  margin-top: 80px;
   width: 700px;
   font-family: Century Gothic;
 }
@@ -163,13 +187,24 @@ body,html{
 }
 
 #soldireita{
+  margin-top:  100px;;
   padding-top: 40px;
-  width: 40%;
+  width: 45%;
   float: right;
   color:  rgb(14, 12, 0);
   padding-right:40px;
+  margin-right: 50px;
   font-size: 17px;
-   
+  background-color: rgba(12, 14, 14, .2);
+  border-radius: 5px;  
+}
+
+#soldireita h1{
+  text-align:center;
+}
+
+#soldireita p{
+  margin-left: 40px;
 }
 
 .galeria{
@@ -185,6 +220,7 @@ body,html{
   text-align: center;
   margin: 40px 20px 0 20px;
 }
+
 .container .heading {
   width: 50%;
   padding-bottom: 50px; 
@@ -261,22 +297,25 @@ justify-content: space-between;
 
 
 #centro{
-  padding-top: 100px;
-  padding-left: 20%;
+  margin-top: 100px;
+  padding-top: 40px;
+  padding-left: 30px;
   width: 62%;
   float: left;
-  color:rgb(0, 0, 0); 
   font-size: 17px;
   font-weight: bolder;
+  background-color: rgba(251, 253, 253, .5);
+  margin-left: 230px;
+  border-radius: 6px;
 }
 
-#centro h1 {
+#centro h1{
      text-align: center;
      color: #0a0a0a;
 }
 
 #centro p{
-  padding-top: 40px;
+  padding-top: 15px;
 }
  /*
 ul{
