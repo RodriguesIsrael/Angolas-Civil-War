@@ -11,6 +11,7 @@ body,html{
 /* The backgraund of each page */
 .cidade{
    background-image: url(../css/images/cidade.jpg);
+   width: 100%;
    height: 180vh;
    background-size: cover;
    background-position: center;
@@ -318,8 +319,10 @@ justify-content: space-between;
   padding-top: 15px;
 }
 
-#containerCo{
-  min-height: 60vh;
+
+/*
+.containerCo{
+  min-height: 100vh;
   align-items: center;
   justify-content: center;
   display: flex;
