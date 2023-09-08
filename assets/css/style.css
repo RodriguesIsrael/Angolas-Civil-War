@@ -351,6 +351,22 @@ label{
   padding: 10px;
   color: black;
   cursor: text;
+  transition: 0.2s;
+}
+
+button{
+  padding: 10px 0;
+  color: black;
+  outline: none;
+  background-color: transparent;
+  border: 1px solid black;
+  width: 104%;
+  cursor: pointer;
+}
+
+input:focus~label{
+  top: -35px;
+  font-size: 14px;
 }
 /*
 .containerCo{
