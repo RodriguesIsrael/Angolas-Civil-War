@@ -42,7 +42,7 @@ body,html{
 
  .contactUs{
    width: 100%;
-   height: 100vh;
+   height:100vh;
    background-image: url(../css/images/contact.jpg);
    background-size: cover;
    background-position: center;
