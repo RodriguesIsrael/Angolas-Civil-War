@@ -286,28 +286,6 @@ justify-content: space-between;
   letter-spacing: 3px;
 }
 
-@media only screen and (max-width: 769px){
-    .container .box{
-  flex-direction: column;
-  
-    }
-  .container .box .dream{
-    width:100%;
-  }
-
-}
-
-@media only screen and (max-width: 643px){
-  .container .heading{
-    width:100%;
-  }
- .container .heading h3{
-  font-size: 1em;
- }
-
-}
-
-
 /* div of the about*/
 
 #centro{
@@ -392,4 +370,52 @@ textarea:valid~label{
 .row .input-group{
   flex-basis: 48%;
   
+}
+
+/*Media queries for the gallery*/ 
+
+@media only screen and (max-width: 1200px){
+  .container .box{
+flex-direction: column;
+
+  }
+.container .box .dream{
+  width:100%;
+}
+
+}
+
+@media only screen and (max-width: 1200px){
+.container .heading{
+  width:100%;
+}
+.container .heading h3{
+font-size: 1em;
+}
+
+}
+
+@media screen and (max-width:1200px) {
+  .cidade{
+    width:65%;
+    height:1200px;
+    margin: 0 auto;
+
+  }
+  #esquerda, #direita{
+    width: 80%;
+    float: left;
+    padding: 0;
+  }
+  
+}
+
+@media screen and (max-width:1200){
+  .terceiroOne{
+    width:65%;
+    height:1200px;
+    float: left;
+    margin: 0 auto;
+  }
+
 }
