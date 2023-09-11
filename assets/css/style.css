@@ -410,12 +410,15 @@ font-size: 1em;
   
 }
 
-@media screen and (max-width:1200){
+@media screen and (max-width:1200px){
   .terceiroOne{
-    width:65%;
+    width:50%;
     height:1200px;
     float: left;
     margin: 0 auto;
   }
-
+    #linksMeus{
+    width:100%;
+    align-items: center;
+  }
 }
