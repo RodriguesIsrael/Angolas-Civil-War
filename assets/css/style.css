@@ -8,7 +8,7 @@ body,html{
   height: 100%;
   margin: 0;
 }
-/* The backgraund of each page */
+/* The backgraund image of each page */
 .cidade{
    background-image: url(../css/images/cidade.jpg);
    width: 100%;
@@ -50,6 +50,8 @@ body,html{
    align-items: center;
    justify-content:center;
  }
+ 
+ /*logo*/
 
  #logo{
    float:left;
@@ -111,6 +113,7 @@ body,html{
   height: 100%;
  }
 
+ /* div of the home page and the p*/
   #esquerda{
   margin-top: 100px;  
   padding-top: 30px;
@@ -154,6 +157,8 @@ body,html{
   margin-left: 50px;
 }
 
+/*links of videos and pages*/
+
 .terceiroOne {
   width: 900px;
   height: 70px;
@@ -191,6 +196,7 @@ body,html{
   color:#fff;
 }
 
+/* div of the more page*/
 #soldireita{
   margin-top:  100px;;
   padding-top: 40px;
@@ -212,6 +218,7 @@ body,html{
   margin-left: 40px;
 }
 
+/* gallery page */
 .galeria{
   padding-top: 100px;
 }
@@ -301,6 +308,8 @@ justify-content: space-between;
 }
 
 
+/* div of the about*/
+
 #centro{
   margin-top: 100px;
   padding-top: 40px;
@@ -322,6 +331,8 @@ justify-content: space-between;
 #centro p{
   padding-top: 15px;
 }
+
+/* for of the contact in the contact page*/
 
 form {
   width: 90%;
@@ -382,61 +393,3 @@ textarea:valid~label{
   flex-basis: 48%;
   
 }
-
-/*
-.containerCo{
-  min-height: 100vh;
-  align-items: center;
-  justify-content: center;
-  display: flex;
-}
-
-#containerCo form{
-  width: 670px;
-  height: 400px;
-  display: flex;
-  justify-content: center;
-  box-shadow: 20px 20px 50px rgba(0,0,0,0.5);
-  border-radius: 15px;
-  background: rgba(255,255,255,0.1);
-  backdrop-filter: blur(10px);
-  flex-wrap: wrap;
-}
-
-
- /*
-ul{
-
-    float: right;
-    list-style-type: none;
-    
-}
-
-ul li {
-    display: inline-block;
-}
-
-ul li a{
-   text-decoration:none;
-   color:black;
-   padding: 5px 20px;
-   border: 1px solid transparent;
-   transition: 0.6s ease;
-   
-}
-
-ul li a:hover{
-    background-color: green;
-    color:#000;
-}
-#nenu.active a{
-    -color: green;
-    cbackgroundolor:#000;
-}
-
-.expert{
-    max-width: 1200px;
-    margin: auto;
-}
-
-*/
