@@ -458,3 +458,11 @@ font-size: 1em;
   }
 
 }
+
+@media screen and (max-width: 950px) {
+  .aboutus1{
+    width: 100%;
+    height: 160vh;
+    margin: 0 auto;
+  }
+}
