@@ -374,7 +374,7 @@ textarea:valid~label{
 
 /*Media queries for the gallery*/ 
 
-@media only screen and (max-width: 1200px){
+@media  screen and (max-width: 1200px){
   .container .box{
 flex-direction: column;
 
@@ -385,7 +385,7 @@ flex-direction: column;
 
 }
 
-@media only screen and (max-width: 1200px){
+@media  screen and (max-width: 1200px){
 .container .heading{
   width:100%;
 }
@@ -420,5 +420,17 @@ font-size: 1em;
     #linksMeus{
     width:100%;
     align-items: center;
+  }
+}
+
+@media screen and (max-width:1200px) {
+  .aboutus1{
+    width:100%;
+    height:1200px;
+  }
+  #centro{
+    width: 50%;
+    float: left;
+    padding: 0;
   }
 }
