@@ -20,3 +20,46 @@ Independence: shows the history of Angola's liberation struggle up to the civil 
 The Video: Connects the visitor to videos related to the Angolan armed civil war, the videos can be found on youtube but in English like this one is rare.
 
 ![Screenshot (526)](https://github.com/RodriguesIsrael/Angolas-Civil-War/assets/122437243/c21e9fc9-20e4-4dab-bca4-a29154b00ffd)
+
+## Exploring the page menus
+   
+  * The menu More, give us more informaton.
+  
+  * The menu Gallery, shows picture of the civil war event, its also have bellow as the hyperlink with a open gallery on internet.
+
+  * The menu About, is where I explain the aim of the page.
+
+  * The menu Contact allows the user to  sign in and send message to  the administrator.
+
+## Testing
+I have tested manually this project by doing the following:
+ 
+  * Passed the code throught the official W3C validator with no issues.
+  * Passed the code through the official (Jigsaw) for CSS validator with no issues
+
+### Bugs
+
+#### Solved Bugs
+  * While writing the code I got no bugs but when i tested i found some bugs  that where imediatly corrected
+  * I had a repeated style line that gave me errors in the test, after removing it the error disappeared.
+### Remaining Bugs
+  * No bugs remain
+
+### Validator Testing
+  * W3C
+     * After a thorough correction with https://validator.w3.org/nu/#textarea  no more errors were 
+
+## Technology
+ * Gidpod
+ * Visual Studio
+ * W3C validator
+
+
+ ## Deployment
+
+ This project was deployed using GitPod
+   * Steps for deployment:
+       
+ 
+
+
