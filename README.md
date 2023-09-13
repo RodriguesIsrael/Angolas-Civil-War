@@ -24,7 +24,10 @@ The Video: Connects the visitor to videos related to the Angolan armed civil war
 ## Exploring the page menus
    
   * The menu More, give us more informaton.
-  
+    
+  ![Screenshot (532)](https://github.com/RodriguesIsrael/Angolas-Civil-War/assets/122437243/df597d82-3667-429f-9998-e55f5dc20aa7)
+
+
   * The menu Gallery, shows picture of the civil war event, its also have bellow as the hyperlink with a open gallery on internet.
 
   * The menu About, is where I explain the aim of the page.
