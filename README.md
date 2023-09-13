@@ -28,15 +28,20 @@ The Video: Connects the visitor to videos related to the Angolan armed civil war
     ![Screenshot (532)](https://github.com/RodriguesIsrael/Angolas-Civil-War/assets/122437243/df597d82-3667-429f-9998-e55f5dc20aa7)
 
 
-  * The menu Gallery, shows picture of the civil war event, its also have bellow as the hyperlink with a open gallery on internet.
+  * The menu Gallery, shows picture of the civil war event, its also have bellow (MORE) has the hyperlink with a open gallery on internet.
     
 ![Screenshot (527)](https://github.com/RodriguesIsrael/Angolas-Civil-War/assets/122437243/0610103f-c8ac-403a-af5d-ff2733babf63)
 
 ![Screenshot (528)](https://github.com/RodriguesIsrael/Angolas-Civil-War/assets/122437243/59909672-4556-434b-a064-b3db181449d6)
 
   * The menu About, is where I explain the aim of the page.
+    
+![Screenshot (529)](https://github.com/RodriguesIsrael/Angolas-Civil-War/assets/122437243/6b2dc014-6b60-4c42-aaa2-902b667d4b8e)
+
 
   * The menu Contact allows the user to  sign in and send message to  the administrator.
+    
+![Screenshot (530)](https://github.com/RodriguesIsrael/Angolas-Civil-War/assets/122437243/d27aeae6-00fc-494d-95da-52ab0b78c022)
 
 ## Testing
 I have tested manually this project by doing the following:
