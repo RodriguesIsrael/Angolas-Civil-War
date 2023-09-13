@@ -9,7 +9,7 @@ This is a website that chronicles a civil war centered in Angola that lasted alm
 
 
 
-## How to have acess the Website
+## How to have acess the Website 
 
 You can access the website via the link below :
 https://8000-rodriguesis-angolascivi-9dgc2kahky4.ws-eu104.gitpod.io/
