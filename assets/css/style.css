@@ -21,9 +21,7 @@ body,html{
    background-image: url(../css/images/soldado.jpg);
    height: 100vh;
    background-size: cover;
-   background-position: center;
-   background-position: no-repeat;
-
+   background-position: center
 } 
 
 .galeria{
@@ -395,6 +393,7 @@ font-size: 1em;
 
 }
 
+/* Media query for the Index */
 @media screen and (max-width: 950px) {
   .cidade{
     width: 100%;
@@ -413,6 +412,7 @@ font-size: 1em;
   }
 }
 
+/* Media query for the links in  Index */
 @media screen and (max-width: 950px){
   .terceiroOne{
     width: 50%;
@@ -426,6 +426,7 @@ font-size: 1em;
   }
 }
 
+/* Media query for the about */
 @media screen and (max-width: 950px) {
   #centro{
     clear:left;
@@ -435,6 +436,7 @@ font-size: 1em;
   }
 }
 
+/* Media query for the menu */
 @media screen and (max-width: 950px) {
   #menu{
     clear: left;
@@ -445,6 +447,7 @@ font-size: 1em;
   }
 }
 
+/* Media query for the More*/
 @media  screen  and (max-width: 950px) {
   .soldado{
    width: 100%;
@@ -459,6 +462,7 @@ font-size: 1em;
 
 }
 
+/* Media query for the About*/
 @media screen and (max-width: 950px) {
   .aboutus1{
     width: 100%;
