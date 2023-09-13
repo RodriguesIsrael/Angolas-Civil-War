@@ -4,3 +4,9 @@ This is a website that chronicles a civil war centered in Angola that lasted alm
 
 
 ![Screenshot (531)](https://github.com/RodriguesIsrael/Angolas-Civil-War/assets/122437243/21c51e09-75ba-4e78-bfbc-1a071ac0abeb)
+
+
+## How to have acess the Website
+You can access the website via the link below :
+https://8000-rodriguesis-angolascivi-9dgc2kahky4.ws-eu104.gitpod.io/
+Once you have opened the page, you will have access to the page as shown in the first image.
