@@ -59,7 +59,7 @@ I have tested manually this project by doing the following:
 
 ### Validator Testing
   * W3C
-     * After a thorough correction with https://validator.w3.org/nu/#textarea  no more errors were 
+     * After testing   with https://validator.w3.org/nu/#textarea  and thorough correction no more errors were found.
 
 ## Technology
  * Gidpod
