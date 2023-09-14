@@ -65,13 +65,23 @@ I have tested manually this project by doing the following:
  * Gidpod
  * Visual Studio
  * W3C validator
+ * Font Awesome
 
 
- ## Deployment
+## Deployment
 
  This project was deployed using GitPod
    * Steps for deployment:
-       
- 
+     * Select the project on my Github Repository
+     * Click on Settings
+     * Select the Source and click on None and select, and we click save.
+     * Scroll down to the Github section to get the deployment link
+
+## Credits
+  * Gitpod for the deployment
+  * We3school 
+  * Google to search for answer 
+  * Stack Overflow 
+
 
 
