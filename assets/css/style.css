@@ -1,145 +1,148 @@
-*{
-   margin: 0;
-   padding: 0;
-   font-family: Century Gothic;
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Century Gothic;
 }
 
-body,html{
+body,
+html {
   height: 100%;
   margin: 0;
 }
+
 /* The backgraund image of each page */
-.cidade{
-   background-image: url(../css/images/cidade.jpg);
-   width: 100%;
-   height: 180vh;
-   background-size: cover;
-   background-position: center;
+.cidade {
+  background-image: url(../css/images/cidade.jpg);
+  width: 100%;
+  height: 180vh;
+  background-size: cover;
+  background-position: center;
 }
 
-.soldado{
-   background-image: url(../css/images/soldado.jpg);
-   height: 100vh;
-   background-size: cover;
-   background-position: center
-} 
+.soldado {
+  background-image: url(../css/images/soldado.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center
+}
 
-.galeria{
-   background-image:  url(../css/images/galeria.jpg);
-   height: 220vh;
-   background-size: cover;
-   background-position: center;
- } 
+.galeria {
+  background-image: url(../css/images/galeria.jpg);
+  height: 220vh;
+  background-size: cover;
+  background-position: center;
+}
 
- .aboutus1{
-   background-image: url(../css/images/chuvalenta.jpg);
-   height: 100vh;
-   background-size: cover;
-   background-position: center;
- }
+.aboutus1 {
+  background-image: url(../css/images/chuvalenta.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
 
- .contactUs{
-   width: 100%;
-   height:100vh;
-   background-image: url(../css/images/contact.jpg);
-   background-size: cover;
-   background-position: center;
-   display: inline-flex;
-   align-items: center;
-   justify-content:center;
- }
- 
- /*logo*/
+.contactUs {
+  width: 100%;
+  height: 100vh;
+  background-image: url(../css/images/contact.jpg);
+  background-size: cover;
+  background-position: center;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
 
- #logo{
-   float:left;
-   font-size:350%;
-   margin-left: 30px;
-   color:#d40909;
- }
+/*logo*/
+
+#logo {
+  float: left;
+  font-size: 300%;
+  margin-left: 30px;
+  color: #d40909;
+}
 
 
- /* navigation  links*/
+/* navigation  links*/
 
- #menu {
-   font-size: 110%;
-   letter-spacing:4px;
-   color:#d40909;
- }
+#menu {
+  font-size: 105%;
+  letter-spacing: 4px;
+  color: #d40909;
+}
 
- #menu,#logo{
-   line-height: 75px;
- }
+#menu,
+#logo {
+  line-height: 75px;
+}
 
- #menu li {
-   float: right;
-   list-style-type: none;
-   margin-right:30px;
- }
+#menu li {
+  float: right;
+  list-style-type: none;
+  margin-right: 30px;
+}
 
- #menu a {
-   text-decoration: none;
-   transition: 0.6s ease;
-   color: #fa0404;
- }
- 
- #menu a:hover {
-   background-color: rgb(3, 3, 3);
-   color:#c00ad8;
- }
+#menu a {
+  text-decoration: none;
+  transition: 0.6s ease;
+  color: #fa0404;
+}
 
- .active{
-   background-color: rgb(3, 3, 3);
-   color:#d40909;
- }
+#menu a:hover {
+  background-color: rgb(3, 3, 3);
+  color: #c00ad8;
+}
 
- .segundo{
-  margin-top:60%;
-  float:left;
+.active {
+  background-color: rgb(3, 3, 3);
+  color: #d40909;
+}
+
+.segundo {
+  margin-top: 60%;
+  float: left;
   width: 10%;
   height: 200px;
-  padding:10px
- }
+  padding: 10px
+}
 
- .segundo #ango {
+.segundo #ango {
   list-style-type: none;
   padding: 0;
 
- }
- 
- .cidade{
-  height: 100%;
- }
+}
 
- /* div of the home page and the p*/
-  #esquerda{
-  margin-top: 100px;  
+.cidade {
+  height: 100%;
+}
+
+/* div of the home page and the p*/
+#esquerda {
+  margin-top: 100px;
   padding-top: 30px;
   width: 42%;
   float: left;
-  color:rgb(15, 13, 1); 
-  padding-left:40px;
+  color: rgb(15, 13, 1);
+  padding-left: 40px;
   font-size: 17px;
   background-color: rgba(251, 253, 253, .5);
   border-radius: 5px;
   margin-left: 30px;
-  }
-
-#esquerda h1{
-   text-align:center;
 }
 
-#esquerda p{
+#esquerda h1 {
+  text-align: center;
+}
+
+#esquerda p {
   margin-right: 50px;
 }
 
-#direita{
-  margin-top: 100px;  
+#direita {
+  margin-top: 100px;
   padding-top: 30px;
   width: 42%;
   float: right;
-  color:rgb(15, 13, 1); 
-  padding-right:40px;
+  color: rgb(15, 13, 1);
+  padding-right: 40px;
   font-size: 17px;
   background-color: rgba(251, 253, 253, .5);
   border-radius: 5px;
@@ -162,8 +165,8 @@ body,html{
   height: 70px;
   margin: 160px;
   display: flex;
-  justify-content: center;  
-  
+  justify-content: center;
+
 }
 
 #linksMeus {
@@ -175,7 +178,7 @@ body,html{
 #linksMeus li {
   display: block;
   width: 160px;
-  float:right;
+  float: right;
   margin-right: 30px;
   border: 3px solid #000;
 }
@@ -186,42 +189,43 @@ body,html{
   text-decoration: none;
   text-align: center;
   background-color: #fff;
-  color:#009;
+  color: #009;
 }
 
-#linksMeus a:hover{
+#linksMeus a:hover {
   background-color: #009;
-  color:#fff;
+  color: #fff;
 }
 
 /* div of the more page*/
-#soldireita{
-  margin-top:  100px;;
+#soldireita {
+  margin-top: 100px;
+  ;
   padding-top: 40px;
   width: 45%;
   float: right;
-  color:  rgb(14, 12, 0);
-  padding-right:40px;
+  color: rgb(14, 12, 0);
+  padding-right: 40px;
   margin-right: 50px;
   font-size: 17px;
   background-color: rgba(12, 14, 14, .2);
-  border-radius: 5px;  
+  border-radius: 5px;
 }
 
-#soldireita h1{
-  text-align:center;
+#soldireita h1 {
+  text-align: center;
 }
 
-#soldireita p{
+#soldireita p {
   margin-left: 40px;
 }
 
 /* gallery page */
-.galeria{
+.galeria {
   padding-top: 100px;
 }
 
- .container{
+.container {
   margin-top: 40px;
   display: flex;
   flex-direction: column;
@@ -233,10 +237,10 @@ body,html{
 
 .container .heading {
   width: 50%;
-  padding-bottom: 50px; 
+  padding-bottom: 50px;
 }
 
-.container .heading  h3 {
+.container .heading h3 {
   font-size: 3em;
   font-weight: bolder;
   padding-bottom: 10px;
@@ -244,15 +248,15 @@ body,html{
   color: #fff;
 }
 
-.container .heading  h3 span {
+.container .heading h3 span {
   font-weight: 100;
   text-decoration-color: #fff;
 }
 
-.container .box{
-display: flex;
-flex-direction: row;
-justify-content: space-between;
+.container .box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 .container .box .dream {
@@ -262,22 +266,22 @@ justify-content: space-between;
 
 }
 
-.container .box .dream img{
+.container .box .dream img {
   width: 100%;
   padding-bottom: 15px;
   border-radius: 5px;
 
 }
 
-.container .btn{
+.container .btn {
   margin: 10px 0 20px 0;
   background: #fff;
   padding: 15px 40px;
   border-radius: 5px;
 }
 
-.container .btn a{
-  color:#222;
+.container .btn a {
+  color: #222;
   font-size: 1.2em;
   text-decoration: none;
   font-weight: bolder;
@@ -286,7 +290,7 @@ justify-content: space-between;
 
 /* div of the about*/
 
-#centro{
+#centro {
   margin-top: 100px;
   padding-top: 40px;
   padding-left: 30px;
@@ -299,12 +303,12 @@ justify-content: space-between;
   border-radius: 6px;
 }
 
-#centro h1{
-     text-align: center;
-     color: #0a0a0a;
+#centro h1 {
+  text-align: center;
+  color: #0a0a0a;
 }
 
-#centro p{
+#centro p {
   padding-top: 15px;
 }
 
@@ -315,22 +319,23 @@ form {
   max-width: 600px;
 }
 
-.input-group{
-  margin-bottom:30px;
+.input-group {
+  margin-bottom: 30px;
   position: relative;
 }
 
-input, textarea{
+input,
+textarea {
   width: 100%;
   padding: 10px;
-  outline:0;
+  outline: 0;
   border: 1px solid black;
-  color:#502121;
+  color: #502121;
   background-color: transparent;
   font-size: 15px;
 }
 
-label{
+label {
   height: 100%;
   position: absolute;
   left: 0;
@@ -341,7 +346,7 @@ label{
   transition: 0.2s;
 }
 
-button{
+button {
   padding: 10px 0;
   color: black;
   outline: none;
@@ -354,91 +359,110 @@ button{
 input:focus~label,
 input:valid~label,
 textarea:focus~label,
-textarea:valid~label{
+textarea:valid~label {
   top: -35px;
   font-size: 14px;
 }
 
-.row{
+.row {
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 
-.row .input-group{
+.row .input-group {
   flex-basis: 48%;
-  
+
 }
 
-/*Media queries for the gallery*/ 
+/*Media queries for the gallery*/
 
-@media only screen and (max-width: 800px){
- .container .box{
+@media only screen and (max-width: 800px) {
+  .container .box {
     flex-direction: row;
 
   }
-.container .box .dream{
-  width:100%;
-}
 
-}
-
-@media only screen and (max-width: 800px){
-.container .heading{
-  width:100%;
-}
-.container .heading h3{
-font-size: 1em;
-}
-
-}
-
-/* Media query for the Index */
-@media screen and (max-width: 950px) {
-  .cidade{
+  .container .box .dream {
     width: 100%;
-    height: 258vh;
-    margin: 0 auto;
+  }
 
-  }
-  #esquerda, #direita{
-    width: 90%;
-    float: left;
-    margin-left: 20px;
-    padding: 0;
-  }
-  p{
-    margin-left: 30px;
-  }
 }
+
+@media only screen and (max-width: 800px) {
+  .container .heading {
+    width: 100%;
+  }
+
+  .container .heading h3 {
+    font-size: 1em;
+  }
+
+}
+
+
 
 /* Media query for the links in  Index */
-@media screen and (max-width: 950px){
-  .terceiroOne{
+@media screen and (max-width: 950px) {
+  .terceiroOne {
     width: 50%;
     height: 300vh;
     float: left;
     margin: 0 auto;
   }
-    #linksMeus{
-    width:100%;
+
+  #linksMeus {
+    width: 100%;
     align-items: center;
   }
 }
 
 /* Media query for the about */
 @media screen and (max-width: 950px) {
-  #centro{
-    clear:left;
-    float:left;
+  #centro {
+    clear: left;
+    float: left;
     margin-left: 20px;
     padding: 0;
   }
 }
 
-/* Media query for the menu */
+/* Media query for the Index */
 @media screen and (max-width: 950px) {
-  #menu{
+  .cidade {
+    width: 100%;
+    height: 258vh;
+    margin: 0 auto;
+
+  }
+
+  #esquerda,
+  #direita {
+    width: 90%;
+    float: left;
+    margin-left: 20px;
+    padding: 0;
+  }
+
+  p {
+    margin-left: 30px;
+    
+  }
+}
+
+/* Media query for the menu */
+@media only screen and (max-width: 600px) {
+  #menu a { 
+    font-size: 80%;
+    float: none;
+    flex-direction: column;
+    
+  }
+
+}
+
+@media only screen and (max-width: 950px) {
+  #menu {
     clear: left;
     float: left;
     margin-left: 30px;
@@ -448,14 +472,14 @@ font-size: 1em;
 }
 
 /* Media query for the More*/
-@media  screen  and (max-width: 950px) {
-  .soldado{
-   width: 100%;
-   height: 225vh;
-   margin: 0 auto;
-   }
+@media screen and (max-width: 950px) {
+  .soldado {
+    width: 100%;
+    height: 225vh;
+    margin: 0 auto;
+  }
 
-  #soldireita{
+  #soldireita {
     clear: right;
     float: right;
   }
@@ -464,7 +488,7 @@ font-size: 1em;
 
 /* Media query for the About*/
 @media screen and (max-width: 950px) {
-  .aboutus1{
+  .aboutus1 {
     width: 100%;
     height: 160vh;
     margin: 0 auto;
