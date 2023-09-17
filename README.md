@@ -12,7 +12,7 @@ This is a website that chronicles a civil war centered in Angola that lasted alm
 ## How to have acess the Website 
 
 You can access the website via the link below :
-https://8000-rodriguesis-angolascivi-9dgc2kahky4.ws-eu104.gitpod.io/
+https://rodriguesisrael.github.io/Angolas-Civil-War/contact.html
 Once you have opened the page, you will have access to the page as shown in the first image.
 On the first page of the website (Home), further down we have three hyperlinks to web pages for more information.
 Location: illustrates where Angola is located to help those who don't know much about Africa.
