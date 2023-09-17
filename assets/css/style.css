@@ -404,8 +404,6 @@ textarea:valid~label {
 @media screen and (max-width: 950px) {
   .terceiroOne {
     width: 50%;
-    height: 300vh;
-    float: left;
     margin: 0 auto;
   }
 
