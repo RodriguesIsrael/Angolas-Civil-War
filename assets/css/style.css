@@ -226,7 +226,6 @@ html {
 }
 
 .container {
-  margin-top: 40px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -262,8 +261,7 @@ html {
 .container .box .dream {
   display: flex;
   flex-direction: column;
-  width: 35.5%;
-
+  width: 32.5%;
 }
 
 .container .box .dream img {
@@ -377,9 +375,9 @@ textarea:valid~label {
 
 /*Media queries for the gallery*/
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 769px) {
   .container .box {
-    flex-direction: row;
+    flex-direction: column;
 
   }
 
@@ -389,7 +387,7 @@ textarea:valid~label {
 
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 643px) {
   .container .heading {
     width: 100%;
   }
@@ -442,21 +440,6 @@ textarea:valid~label {
     float: left;
     margin-left: 20px;
     padding: 0;
-  }
-
-  p {
-    margin-left: 30px;
-    
-  }
-}
-
-/* Media query for the menu */
-@media only screen and (max-width: 600px) {
-  #menu a { 
-    font-size: 80%;
-    float: none;
-    flex-direction: column;
-    
   }
 
 }
