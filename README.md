@@ -118,6 +118,11 @@ Scenario One = Corred inputs
   * We3school 
   * Google to search for answer 
   * Stack Overflow 
+  * Follow The Pin (Location)
+  * Wikipedia (Independece)
+  * Africa Biographics Page on Youtube(Video)
+  * Old Dominion University Read more  (More = more.index)
+  * Angola war Stock Photos and Images (Gallery = gallery.index)
 
 
 
