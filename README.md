@@ -48,7 +48,7 @@ I have tested manually this project by doing the following:
  
   * Passed the code throught the official W3C validator with no issues.
   * Passed the code through the official (Jigsaw) for CSS validator with no issues 
-  * Passed the link throught the oficial Lighthouse for performance testing 
+  * Passed the link throught the oficial Lighthouse for performance testing:
 
 
 
