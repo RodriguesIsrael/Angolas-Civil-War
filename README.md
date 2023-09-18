@@ -76,7 +76,7 @@ Scenario One = Corred inputs
       * Email Id: Denis12@gmail.com
       * Your Message: I'm Denis
   3. Click Submit
-  
+
 ### Bugs
 
 #### Solved Bugs
@@ -94,6 +94,7 @@ Scenario One = Corred inputs
  * Visual Studio
  * W3C validator
  * Font Awesome
+ * Lighthouse
 
 
 ## Deployment
@@ -102,8 +103,15 @@ Scenario One = Corred inputs
    * Steps for deployment:
      * Select the project on my Github Repository
      * Click on Settings
-     * Select the Source and click on None and select, and we click save.
-     * Scroll down to the Github section to get the deployment link
+     * Click on Pages
+     * Select the Source and click on None and select main, and we click  on save
+     * Click on Code
+     * Click on  green ✔ 
+     * Click on Details of the fist line
+     * Click on deploy and then on Pull ghrc.io/action/jeckyll-bulld-pages:v1.0.7
+     * Click on Complete job on Evaluated environment url we can see the depoyment link.
+
+
 
 ## Credits
   * Gitpod for the deployment
