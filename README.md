@@ -47,8 +47,36 @@ The Video: Connects the visitor to videos related to the Angolan armed civil war
 I have tested manually this project by doing the following:
  
   * Passed the code throught the official W3C validator with no issues.
-  * Passed the code through the official (Jigsaw) for CSS validator with no issues
+  * Passed the code through the official (Jigsaw) for CSS validator with no issues 
+  * Passed the link throught the oficial Lighthouse for performance testing 
 
+
+
+
+
+### Test the menu
+  * Home = index.html
+  * More = more.html 
+  * Gallery = gallery.html
+  * About = about.html
+  * Contact = contact.html
+
+Links on all pages navigated to the correct page as expetected. 
+
+#### Form Testing 
+The form on the home page was tesed on ensure in factioned ass aspected when correct data was input and when incorrect data was input. The following test scenarios were convered:
+
+Scenario One = Corred inputs
+
+#### Steps to test
+  1. Navigate to Home Page
+  2. Scroll down to the form and input the following data:
+      * Your Name: Danis Bones
+      * Phone No.: 152224758963
+      * Email Id: Denis12@gmail.com
+      * Your Message: I'm Denis
+  3. Click Submit
+  
 ### Bugs
 
 #### Solved Bugs
