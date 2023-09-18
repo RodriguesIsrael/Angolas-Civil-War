@@ -50,9 +50,7 @@ I have tested manually this project by doing the following:
   * Passed the code through the official (Jigsaw) for CSS validator with no issues 
   * Passed the link throught the oficial Lighthouse for performance testing:
 
-
-
-
+![Screenshot (569)](https://github.com/RodriguesIsrael/Angolas-Civil-War/assets/122437243/47a4dae7-442f-4a08-a1cd-81c3bc67e3da)
 
 ### Test the menu
   * Home = index.html
