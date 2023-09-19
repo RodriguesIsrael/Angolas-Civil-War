@@ -201,7 +201,6 @@ html {
 /* div of the more page*/
 #soldireita {
   margin-top: 100px;
-  ;
   padding-top: 40px;
   width: 45%;
   float: right;
@@ -220,12 +219,17 @@ html {
 #soldireita p {
   margin-left: 40px;
 }
-/*#soldado2 {
-  margin-top: 100px;
+
+/* the audio*/
+#soldado2 {
+  margin-top: 19%;
   padding-top: 40px;
   float: left;
-  margin-left: 40px;
-}*/
+  margin-left: 100px;
+  border-radius: 15px;
+
+}
+
 /* gallery page */
 .galeria {
   padding-top: 100px;
@@ -402,7 +406,6 @@ textarea:valid~label {
   }
 
 }
-
 
 
 /* Media query for the links in  Index */
