@@ -5,6 +5,7 @@ This is a website that chronicles a civil war centered in Angola that lasted alm
 ![Screenshot (572)](https://github.com/RodriguesIsrael/Angolas-Civil-War/assets/122437243/7ade1bf8-bad7-4332-be94-b760bd9a05b8)
 
 Bellow is the picture that shows the exactly location of Angola.
+
 ![Screenshot (531)](https://github.com/RodriguesIsrael/Angolas-Civil-War/assets/122437243/21c51e09-75ba-4e78-bfbc-1a071ac0abeb)
 
 
